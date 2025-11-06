@@ -1,60 +1,57 @@
-<h1 align="center">Computer Science student | Passionate about Automation, AI & Software Development</h1>
+<h1 align="center">🚀 João Vitor Albero</h1>
+<p align="center">
+  <b>Computer Science Student • Automation & Software Development • Security Enthusiast</b>
+</p>
 
-###
+---
 
-<p align="left">Hello, my name is João Vitor Albero, I am 21 years old and I am completing my Bachelor’s degree in Computer Science. Next year, I will begin my postgraduate studies in Programming.</p>
+### 👨‍💻 About Me
+- 💡 Passionate about technology, automation and problem solving
+- 🔥 Experience with Python automation for real business processes  
+- 📚 Currently studying Computer Science and improving skills in Software Engineering & Cybersecurity
+- 🚀 Goal: Work as a Backend / Automation Developer and build impactful solutions
 
-###
+---
 
-<h2 align="left">About Me</h2>
+### 🛠️ Tech Stack
 
-###
+**Languages & Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,java,git,github,selenium,react,mysql,postgresql,vscode,windows,linux" />
+</p>
 
-<p align="left">💻 Passionate about Programming and Security<br>🚀 Beginner Programmer<br>🌎 Advanced English</p>
+---
 
-###
+### 📌 Featured Projects
 
-<h2 align="left">Programming Languages</h2>
+| Project | Description | Tech |
+|--------|-------------|------|
+| **Fast Seguros** | Automation system for insurance quotation used in real company environments | Python • Selenium • Pandas • Excel |
+| **UP_Seguros** | Insurance price calculator for automotive & electronics | Java • HTML • CSS • JS |
+| **API JavaScript** | REST API consuming external data | JavaScript • Express |
+| **Jogo da Velha** | Web game | HTML • CSS • JavaScript |
 
-###
+> ⭐ Explore my repositories below — always building something new!
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-</div>
+---
 
-###
+### 📊 GitHub Analytics
 
-<div align="center">
-  <a href="contato.joaoalbero@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/joao-vitor-albero/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Joaolbero&show_icons=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaolbero&layout=compact" />
+</p>
 
-###
+---
 
-<img src="https://raw.githubusercontent.com/Joaolbero/Joaolbero/output/snake.svg" alt="Snake animation" />
+### 📫 Contact & Profiles
 
-###
+<p align="left">
+  <a href="mailto:contato.joaoalbero@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/joao-vitor-albero"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Joaolbero"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+---
+
+⭐ *“Keep learning, keep creating, keep evolving.”*
