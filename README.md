@@ -44,6 +44,16 @@
 
 ---
 
+### 🟩 Contribution “Snake”
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joaolbero/Joaolbero/output/snake-dark.svg">
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Joaolbero/Joaolbero/output/snake.svg">
+  </picture>
+</p>
+
+
 ### 📫 Contact & Profiles
 
 <p align="left">
