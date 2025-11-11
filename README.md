@@ -35,8 +35,6 @@
 
 ---
 
-<!-- Broken image cleanup -->
-
 ### 📊 GitHub Analytics
 
 <p align="center">
@@ -49,29 +47,22 @@
   <img height="150em" src="https://streak-stats.demolab.com?user=Joaolbero&theme=dark&hide_border=true&card_width=500&fire=DD2727&ring=DD2727&cache_seconds=3600" />
 </p>
 
+---
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Joaolbero&theme=onedark&no-frame=true&row=1&column=6&margin-w=10" />
 </p>
 
-<br/>
+---
 
-<!-- 🎮 Pac-Man -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joaolbero/Joaolbero/output/pacman-contribution-graph-dark.svg?t=1">
-    <img alt="Pac-Man eating my contributions" src="https://raw.githubusercontent.com/Joaolbero/Joaolbero/output/pacman-contribution-graph.svg?t=1">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joaolbero/Joaolbero/output/pacman-contribution-graph-dark.svg">
+    <img alt="Pac-Man eating my contributions" src="https://raw.githubusercontent.com/Joaolbero/Joaolbero/output/pacman-contribution-graph.svg">
   </picture>
 </p>
 
-<!-- 🐍 Snake -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joaolbero/Joaolbero/output/github-contribution-grid-snake-dark.svg?t=1" />
-    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Joaolbero/Joaolbero/output/github-contribution-grid-snake.svg?t=1" />
-  </picture>
-</p>
-
-<br/>
+---
 
 <h3 align="center">📫 Contact & Profiles</h3>
 
