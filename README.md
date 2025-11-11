@@ -42,7 +42,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaolbero&layout=compact&langs_count=8&theme=dark&count_private=true&hide_border=true" />
 </p>
 
-<!-- 🔥 Streak corrigido -->
 <p align="center">
   <img height="150em" src="https://streak-stats.demolab.com?user=Joaolbero&theme=dark&hide_border=true&card_width=500&fire=DD2727&ring=DD2727&cache_seconds=3600" />
 </p>
@@ -53,11 +52,17 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Joaolbero&theme=onedark&no-frame=true&row=1&column=6&margin-w=10" />
 </p>
 
----
+<br/>
 
+<!-- 🎮 Pac-Man (usa os arquivos publicados pelo workflow no branch `output`) -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joaolbero/Joaolbero/output/pacman-contribution-graph-dark.svg?t=1">
+    <img alt="Pac-Man eating my contributions" src="https://raw.githubusercontent.com/Joaolbero/Joaolbero/output/pacman-contribution-graph.svg?t=1">
+  </picture>
+</p>
 
-
----
+<br/>
 
 <h3 align="center">📫 Contact & Profiles</h3>
 
