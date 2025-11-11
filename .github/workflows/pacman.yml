@@ -1,8 +1,8 @@
-name: Update Pac-Man Contribution
+name: Generate Pac-Man contribution graph
 
 on:
   schedule:
-    - cron: "0 3 * * *"
+    - cron: "0 2 * * *"     # Pac-Man 02:00 UTC
   workflow_dispatch:
   push:
     branches: ["main"]
@@ -11,19 +11,20 @@ permissions:
   contents: write
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
     steps:
-      - name: Generate pacman-contribution-graph.svg
-        uses: abozanona/pacman-contribution-graph@main
+      - uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
-
+          github_user_name: Joaolbero
+          # estes nomes já batem com os links do seu README
+          outputs: |
+            dist/pacman-contribution-graph.svg
+            dist/pacman-contribution-graph-dark.svg?palette=github-dark
       - name: Publish to output branch
-        uses: peaceiris/actions-gh-pages@v3
+        uses: crazy-max/ghaction-github-pages@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: output
-          publish_dir: dist
-          force_orphan: true
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
