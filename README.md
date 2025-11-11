@@ -35,6 +35,8 @@
 
 ---
 
+<!-- Broken image cleanup -->
+
 ### 📊 GitHub Analytics
 
 <p align="center">
