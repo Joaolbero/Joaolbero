@@ -39,7 +39,7 @@
 
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Joaolbero&show_icons=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaolbero&layout=compact" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaolbero&layout=compact&langs_count=8&theme=dark&count_private=true&cache_seconds=60" />
 </p>
 
 ---
