@@ -64,6 +64,8 @@
 
 <br/>
 
+---
+
 <h3 align="center">📫 Contact & Profiles</h3>
 
 <p align="center">
