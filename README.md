@@ -48,12 +48,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Joaolbero&theme=onedark&no-frame=true&row=1&column=6&margin-w=10" />
-</p>
-
-<br/>
-
 <!-- 🎮 Pac-Man (usa os arquivos publicados pelo workflow no branch `output`) -->
 <p align="center">
   <picture>
@@ -62,7 +56,12 @@
   </picture>
 </p>
 
-<br/>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Joaolbero&theme=onedark&no-frame=true&row=1&column=6&margin-w=10" />
+</p>
 
 ---
 
