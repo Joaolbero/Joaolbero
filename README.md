@@ -6,17 +6,17 @@
 ---
 
 ### 👨‍💻 About Me
-- 💡 Passionate about technology, automation and problem solving
+- 💡 Passionate about technology, automation and problem solving  
 - 🔥 Experience with Python automation for real business processes  
-- 📚 Currently studying Computer Science and improving skills in Software Engineering & Cybersecurity
-- 🚀 Goal: Work as a Backend / Automation Developer and build impactful solutions
+- 📚 Currently studying Computer Science and improving skills in Software Engineering & Cybersecurity  
+- 🚀 Goal: Work as a Backend / Automation Developer and build impactful solutions  
 
 ---
 
 ### 🛠️ Tech Stack
 
 **Languages & Tools**
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,java,git,github,selenium,react,mysql,postgresql,vscode,windows,linux" />
 </p>
 
@@ -25,7 +25,7 @@
 ### 📌 Featured Projects
 
 | Project | Description | Tech |
-|--------|-------------|------|
+|----------|--------------|------|
 | **Fast Seguros** | Automation system for insurance quotation used in real company environments | Python • Selenium • Pandas • Excel |
 | **UP_Seguros** | Insurance price calculator for automotive & electronics | Java • HTML • CSS • JS |
 | **API JavaScript** | REST API consuming external data | JavaScript • Express |
@@ -43,20 +43,17 @@
 </p>
 
 <p align="center">
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Joaolbero&theme=dark&hide_border=true&fire=DD2727&ring=DD2727" />
+  <img height="150em" src="https://streak-stats.demolab.com?user=Joaolbero&theme=dark&hide_border=true&fire=DD2727&ring=DD2727" />
 </p>
 
 ---
-
-<p align="center">
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Joaolbero&theme=dark&hide_border=true&fire=DD2727&ring=DD2727" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Joaolbero&theme=onedark&no-frame=true&row=1&column=6&margin-w=10" />
 </p>
 
 ---
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joaolbero/Joaolbero/output/pacman-contribution-graph-dark.svg">
@@ -66,14 +63,16 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Joaolbero/Joaolbero/blob/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="GitHub Snake" src="https://github.com/Joaolbero/Joaolbero/blob/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joaolbero/Joaolbero/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Joaolbero/Joaolbero/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
+---
+
 ### 📫 Contact & Profiles
 
-<p align="left">
+<p align="center">
   <a href="mailto:contato.joaoalbero@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/joao-vitor-albero"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/Joaolbero"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"></a>
