@@ -61,21 +61,14 @@
   </picture>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joaolbero/Joaolbero/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Joaolbero/Joaolbero/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
 ---
 
-### 📫 Contact & Profiles
+<h3 align="center">📫 Contact & Profiles</h3>
 
 <p align="center">
-  <a href="mailto:contato.joaoalbero@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/joao-vitor-albero"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/Joaolbero"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:contato.joaoalbero@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/joao-vitor-albero"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Joaolbero"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
