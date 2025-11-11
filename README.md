@@ -42,12 +42,32 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaolbero&layout=compact&langs_count=8&theme=dark&count_private=true&hide_border=true" />
 </p>
 
+<p align="center">
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Joaolbero&theme=dark&hide_border=true&fire=DD2727&ring=DD2727" />
+</p>
+
 ---
 
+<p align="center">
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Joaolbero&theme=dark&hide_border=true&fire=DD2727&ring=DD2727" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Joaolbero&theme=onedark&no-frame=true&row=1&column=6&margin-w=10" />
+</p>
+
+---
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joaolbero/Joaolbero/output/pacman-contribution-graph-dark.svg">
     <img alt="Pac-Man eating my contributions" src="https://raw.githubusercontent.com/Joaolbero/Joaolbero/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Joaolbero/Joaolbero/blob/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="GitHub Snake" src="https://github.com/Joaolbero/Joaolbero/blob/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
