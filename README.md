@@ -42,8 +42,9 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaolbero&layout=compact&langs_count=8&theme=dark&count_private=true&hide_border=true" />
 </p>
 
+<!-- 🔥 Streak corrigido -->
 <p align="center">
-  <img height="150em" src="https://streak-stats.demolab.com?user=Joaolbero&theme=dark&hide_border=true&fire=DD2727&ring=DD2727" />
+  <img height="150em" src="https://streak-stats.demolab.com?user=Joaolbero&theme=dark&hide_border=true&card_width=500&fire=DD2727&ring=DD2727&cache_seconds=3600" />
 </p>
 
 ---
