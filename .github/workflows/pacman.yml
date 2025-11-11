@@ -2,8 +2,8 @@ name: Generate Pac-Man contribution graph
 
 on:
   schedule:
-    - cron: "0 2 * * *"     # Pac-Man 02:00 UTC
-  workflow_dispatch:
+    - cron: "0 2 * * *"     # roda todo dia 02:00 UTC
+  workflow_dispatch:         # permite rodar manual
   push:
     branches: ["main"]
 
@@ -17,7 +17,6 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: Joaolbero
-          # estes nomes já batem com os links do seu README
           outputs: |
             dist/pacman-contribution-graph.svg
             dist/pacman-contribution-graph-dark.svg?palette=github-dark
