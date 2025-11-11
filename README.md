@@ -55,12 +55,7 @@
 
 ---
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joaolbero/Joaolbero/output/pacman-contribution-graph-dark.svg">
-    <img alt="Pac-Man eating my contributions" src="https://raw.githubusercontent.com/Joaolbero/Joaolbero/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
+
 
 ---
 
