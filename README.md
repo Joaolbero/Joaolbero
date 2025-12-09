@@ -22,14 +22,53 @@
 
 ---
 
-### 📌 Featured Projects
+## 🔥 Featured Projects
 
-| Project | Description | Tech |
-|----------|--------------|------|
-| **Fast Seguros** | Automation system for insurance quotation used in real company environments | Python • Selenium • Pandas • Excel |
-| **UP_Seguros** | Insurance price calculator for automotive & electronics | Java • HTML • CSS • JS |
-| **API JavaScript** | REST API consuming external data | JavaScript • Express |
-| **Jogo da Velha** | Web game | HTML • CSS • JavaScript |
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn-icons-png.flaticon.com/512/3190/3190261.png" width="70"><br>
+      <b>FakeBank Dashboard</b><br>
+      <sub>Modern banking UI • LocalStorage • Dark/Light</sub><br><br>
+      <a href="https://github.com/Joaolbero/fakebank-dashboard">
+        <img src="https://img.shields.io/badge/VIEW%20PROJECT-1e90ff?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://cdn-icons-png.flaticon.com/512/1829/1829580.png" width="70"><br>
+      <b>JoaoAlbero-CV</b><br>
+      <sub>Interactive CV • Terminal • Snake • Matrix</sub><br><br>
+      <a href="https://github.com/Joaolbero/JoaoAlbero-CV">
+        <img src="https://img.shields.io/badge/VIEW%20PROJECT-1e90ff?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://cdn-icons-png.flaticon.com/512/1822/1822899.png" width="70"><br>
+      <b>Fast Seguros Automation</b><br>
+      <sub>Python • Selenium • GUI • Excel automation</sub><br><br>
+      <a href="https://github.com/Joaolbero/fast-seguros-automation">
+        <img src="https://img.shields.io/badge/VIEW%20PROJECT-1e90ff?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://cdn-icons-png.flaticon.com/512/727/727245.png" width="70"><br>
+      <b>Online Music Player</b><br>
+      <sub>Neon Player • Playlist • Shortcuts • Local files</sub><br><br>
+      <a href="https://github.com/Joaolbero/online-music-player">
+        <img src="https://img.shields.io/badge/VIEW%20PROJECT-1e90ff?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
 
 > ⭐ Explore my repositories below — always building something new!
 
